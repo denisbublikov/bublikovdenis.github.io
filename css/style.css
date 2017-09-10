@@ -1,0 +1,69 @@
+body{
+    background-color: #2F2933;
+    color: #f2f2f2;
+    font:450;
+}
+
+.container-fluid {
+    background-color: #01A2A6;
+}
+
+.nav li:hover {
+    background-color: #29D9C2;
+}
+
+#headerImage {
+    background: url(../images/header.jpg) no-repeat;
+    min-height: 500px;
+    width: 100%;
+    -webkit-background-size: cover;
+}
+
+#myCarousel {
+    padding-top: 50px;
+    width: 100%;
+}
+.navbar {
+    border: 1px solid #01A2A6;
+    border-bottom: none;
+    border-radius: 0;
+}
+.navbar-collapse {
+    border: none;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #f2f2f2;
+}
+.navbar-default .navbar-brand {
+    color: #f2f2f2;
+}
+#feedback {
+    background-color: #f2f2f2;
+    color:black;
+    padding-top: 50px;
+    font-size:20px;
+}
+
+#feedbackImage1 {
+    background: url(../images/header3.jpg) center center no-repeat;
+
+}
+
+#feedbackImage2 {
+    background: url(../images/FBI1.jpg) center center no-repeat;
+}
+
+#feedbackImage3 {
+
+    background: url(../images/FBI1.jpg) center center no-repeat;
+
+}
+
+.feedbackImages {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 300px;
+    position: relative;
+}
